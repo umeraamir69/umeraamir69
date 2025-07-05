@@ -16,10 +16,6 @@ I am a passionate software engineer with a keen interest in **Artificial Intelli
 
 - 🔎 **NLP for Low-Resource Languages** (Urdu Text Reuse Detection)  
 - ⚖️ **Legal Document Retrieval Systems** using AI and RAG models  
-- 🏏 **Mobile Applications for Sports Booking**  
-- 🚗 **AI-Powered Road Safety and Analytics**  
-- 🌐 Full-Stack Web Development with modern technologies  
-
 ---
 
 ## 🛠️ Tech Stack
@@ -27,8 +23,8 @@ I am a passionate software engineer with a keen interest in **Artificial Intelli
 **Frontend:** ReactJS, NextJS, Tailwind CSS, JavaScript  
 **Backend:** NodeJS, Express, RESTful APIs, Firebase  
 **ML & AI:** Python, PyTorch, Scikit-learn, Sentence Transformers, YOLOv8, Streamlit  
-**Databases:** MongoDB, SQL, SQLite  
-**Tools & Cloud:** Git, AWS, Vercel, Expo  
+**Databases:** MongoDB, SQL, SQLite, FireBase   
+**Tools & Cloud:** Git, AWS, Vercel, Expo, Jira 
 
 ---
 

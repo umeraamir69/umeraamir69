@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Muhammad Umer Aamir
 
-🎓 Final Year Software Engineering Student at **COMSATS University Islamabad, Lahore Campus**  
-💻 **AI & NLP Enthusiast | Full-Stack Developer |  R&D  | Open Source Contributor**  
+🎓 Final Year Masters of Applied Computing Student at **Wilfrid Laurier University **  
+💻 **AI & NLP Enthusiast | Full-Stack Developer |  R&D  | Open Source Contributor | **  
 🌐 [Portfolio](https://www.umeraamir.tech) • [LinkedIn](https://www.linkedin.com/in/umeraamir69/) • [Email](mailto:umeraamir45@gmail.com)  
 
 ---

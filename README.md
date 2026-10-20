@@ -1,6 +1,6 @@
 # Muhammad Umer Aamir
 
-MAC student at **Wilfrid Laurier University** (Brantford). Software engineer. Open to internships and junior roles in Ontario.
+MAC student at **Wilfrid Laurier University** . Software engineer. Open to internships and junior roles in Ontario.
 
 [LinkedIn](https://www.linkedin.com/in/umeraamir69/) · [Email](mailto:umeraamir45@gmail.com)
 

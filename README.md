@@ -18,6 +18,4 @@ MAC student at **Wilfrid Laurier University**. Software engineer. Open to intern
 **ML:** Python, scikit-learn, PyTorch, Sentence Transformers  
 **Tools:** Git, Go, Vercel, GitHub Actions
 
-## Pinned
 
-ApplySafe · secsentry · Urdu Text Reuse Detection · LectureLens · Luminwell · Quality Tire's

@@ -15,7 +15,7 @@ MAC student at **Wilfrid Laurier University**, based in Waterloo. Software engin
 
 ## Stack
 
-**Web:** React, Next.js, Node, NestJS, Tailwind  
+**Web:** React, Next.js, TypeScript, Node, NestJS, Tailwind  
 **Mobile:** Java, Android, Firebase  
 **ML:** Python, scikit-learn, PyTorch, Sentence Transformers  
 **Tools:** Git, Go, Vercel, GitHub Actions
